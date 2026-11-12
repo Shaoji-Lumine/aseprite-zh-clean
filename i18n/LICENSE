@@ -1,0 +1,18 @@
+# Aseprite 简体中文语言文件（zh_CN.ini）
+
+本文件是本项目基于 Aseprite 官方 `data/strings/en.ini` 自建的简体中文翻译，
+未使用任何第三方汉化包。
+
+## 授权
+
+- 原英文文本：© Igara Studio S.A. / David Capello，采用
+  **Creative Commons Attribution 4.0 International（CC BY 4.0）** 授权。
+- 本简体中文翻译：以 **CC BY 4.0** 发布。
+- 授权全文：https://creativecommons.org/licenses/by/4.0/
+
+## 署名
+
+- Aseprite：https://aseprite.org/
+- 英文源文件：https://github.com/aseprite/aseprite/blob/main/data/strings/en.ini
+
+使用时请保留本说明，并注明“简体中文翻译来自 aseprite-zh-clean 项目”。

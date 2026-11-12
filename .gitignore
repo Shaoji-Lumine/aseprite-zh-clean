@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+*.dmg
+build/
+dist/
+*.swp
