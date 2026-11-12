@@ -1,5 +1,8 @@
 # Aseprite 简体中文汉化 · 干净整洁版
 
+[![release](https://img.shields.io/github/v/release/Shaoji-Lumine/aseprite-zh-clean?label=release&color=2ea44f)](https://github.com/Shaoji-Lumine/aseprite-zh-clean/releases)
+[![license](https://img.shields.io/badge/license-CC%20BY%204.0%20%2B%20MIT-blue)](NOTICE.md)
+
 > 一套**完全自建、干净整洁**的 Aseprite 简体中文汉化方案。
 > 不用现成汉化包，不拼凑，不糊字：1834 条界面文本全量自译 + 中文像素字体，接近原版像素风的完整中文界面。
 
@@ -20,6 +23,7 @@
 
 > 本仓库**不包含 Aseprite 本体或源码**。Aseprite 是 Igara Studio 的商业软件，请通过 [官网](https://aseprite.org/) / Steam / itch.io 合法获取。
 
+0. 直接下载打包好的发布包：**[aseprite-zh-clean-v1.0.0.zip](https://github.com/Shaoji-Lumine/aseprite-zh-clean/releases/download/v1.0.0/aseprite-zh-clean-v1.0.0.zip)**（解压后用里面的脚本安装）。
 1. 把 `Aseprite.app` 放进「应用程序」。
 2. 下载本仓库（或 `git clone`），在仓库目录执行：
 
